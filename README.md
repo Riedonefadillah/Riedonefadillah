@@ -1,29 +1,59 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+# 👋 Halo, saya Riedone Fadillah
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+Saya adalah seorang pelajar yang memiliki minat besar di bidang teknologi, khususnya dalam pengembangan web. Saat ini saya sedang fokus mempelajari dan mengembangkan kemampuan dalam membuat website menggunakan HTML, CSS, JavaScript, dan PHP.
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+Saya percaya bahwa belajar tidak cukup hanya teori, поэтому saya terus mencoba membangun berbagai proyek sederhana sebagai bentuk latihan dan pengembangan diri.
+
+---
+
+## 🚀 Tentang Saya
+
+* 🎓 Pelajar yang sedang belajar Web Development
+* 💻 Fokus pada Frontend & dasar Backend
+* 🌱 Sedang memperdalam HTML, CSS, JavaScript, dan PHP
+* 🎯 Target: Menjadi Fullstack Developer profesional
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 HTML, CSS, JavaScript, PHP
+* 🗄️ MySQL
+* ⚙️ Git, GitHub, VS Code
+
+---
+
+## 📂 Project Saya
+
+Beberapa project yang sudah saya kerjakan:
+
+* 📚 **None**
+  → CRUD data buku, login system, upload gambar
+
+* 🌐 **Website Sederhana**
+  → Dibuat menggunakan HTML, CSS, dan JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Riedonefadillah\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📈 Bahasa yang Sering Digunakan
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riedonefadillah\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Kontak
+
+* 📧 Email: (isi email kamu)
+* 📱 WhatsApp: (opsional)
+
+---
+
+## ⚡ Fakta Singkat
+
+> Saya masih dalam proses belajar, tapi saya fokus membuat project nyata, bukan hanya memahami teori.
